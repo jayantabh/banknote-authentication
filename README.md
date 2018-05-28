@@ -1,5 +1,4 @@
-# banknote_authentication
-Banknote Authentication Classification:
+# Banknote Authentication Classification:
 
 This is a practice program to emulate the following a tutorial on machinelearningmastery.com for a disparate data set than the one given in the blog post.
 
